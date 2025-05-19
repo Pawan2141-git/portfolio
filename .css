@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: url('b61a0d1b-8216-43b7-9c50-30c9d978f490.webp') no-repeat center center fixed;
+  background-size: cover;
+  color: #000000;
+  overflow-x: hidden;
+}
+h1 {
+  font-size: 2.5rem;
+  color: #d1093e;
+  text-align: center;
+  margin-top: 20px;
+}
